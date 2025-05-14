@@ -1,0 +1,10 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2017",
+    // "types": ["vite/client", "nuxt/types"]
+  
+  }
+}
